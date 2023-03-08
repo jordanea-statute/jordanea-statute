@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+🤓 Estudante e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas e desenvolvimento Frontend programa Ford<enter> Senai.
+  Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
+  Natural do Rio de Janeiro, atualmente morando em São Paulo.
+  Sou muito apegada a familia e amigos. 🥰
+  Sincera, atenciosa, dedicada, são palavras que podem me descrever
+  Amo esportes, pratico Arte Marcial Jiu-Jitsu, Muay thai, Musculação.
 
+<!--
 **jordanea-statute/jordanea-statute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
