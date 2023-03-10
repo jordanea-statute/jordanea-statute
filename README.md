@@ -4,7 +4,7 @@
   Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
   Natural do Rio de Janeiro, atualmente morando em São Paulo. </br>
   Sou muito ligada a familia e amigos 🥰. </br>
-  Amo viajar ✈️
+  Amo viajar ✈️ </br>
   Sincera, atenciosa, dedicada e prestativa são palavras que podem me descrever.
   Amo esportes, pratico Arte Marcial Jiu-Jitsu, Muay thai, Musculação*. 🦾
   
