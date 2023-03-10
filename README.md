@@ -2,7 +2,7 @@
 
 📚 *Estudante e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas e desenvolvimento Front-end programa Ford<enter> Senai.
   Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
-  Natural do Rio de Janeiro, atualmente morando em São Paulo.
+  Natural do Rio de Janeiro, atualmente morando em São Paulo. </br>
   Sou muito apegada a familia e amigos 🥰. </br>
   Amo viajar ✈️
   Sincera, atenciosa, dedicada e prestativa são palavras que podem me descrever.
