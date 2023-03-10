@@ -1,4 +1,4 @@
-### Curioso sobre mim
+### Curioso sobre mim 👀
 📚 *Universitaria e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas e desenvolvimento Front-end programa Ford<enter> Senai.
   Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
   Natural do Rio de Janeiro, atualmente morando em São Paulo. </br>
