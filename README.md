@@ -1,5 +1,4 @@
-### Curioso sobre mim ![200w](https://as1.ftcdn.net/v2/jpg/05/15/54/84/1000_F_515548439_tg8fC4b0A9cPBZW9QduTDqMhgfXB3JWL.jpg)
-
+### Curioso sobre mim
 📚 *Universitaria e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas e desenvolvimento Front-end programa Ford<enter> Senai.
   Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
   Natural do Rio de Janeiro, atualmente morando em São Paulo. </br>
