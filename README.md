@@ -9,7 +9,7 @@
   
 ![200w](https://user-images.githubusercontent.com/112412422/224308271-c5b8b4a9-b27b-4260-80f1-10f566bf3a08.gif)
 
-
+link para orientação sobre versionamento Semantico: ![200w](https://semver.org/lang/pt-BR/)
 <!--
 
 **jordanea-statute/jordanea-statute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
