@@ -9,6 +9,15 @@
   
 ![200w](https://user-images.githubusercontent.com/112412422/224308271-c5b8b4a9-b27b-4260-80f1-10f566bf3a08.gif)
 
+<br><br>
+<div>
+  <p align="center">
+  <img height ="50px"src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,)(https://skillicons.dev)/></p>
+<br><br>
+  <a href="https://github.com/marceloronald96">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=marceloronald96&show_icons=true&theme=tokyonight"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloronald96&layout=compact&theme=tokyonight"/>
+</div>
 
 <!--
 
