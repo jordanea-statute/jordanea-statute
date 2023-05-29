@@ -15,8 +15,8 @@
   <img height ="50px"src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,)(https://skillicons.dev)/></p>
 <br><br>
   <a href="https://github.com/marceloronald96">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=marceloronald96&show_icons=true&theme=tokyonight"/>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloronald96&layout=compact&theme=tokyonight"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
 </div>
 
 <!--
