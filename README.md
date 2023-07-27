@@ -14,10 +14,11 @@
   <a href="https://github.com/jordanea-statute">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
-  <br><br>
-  <img align="center" height ="60px" width="70px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,node.js)(https://skillicons.dev)/></p>
 </div>
+<div style="display: inline_block"> <br>    
+  <img align="center" height ="60px" width="70px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
 
+</div>
 <!--
 
 **jordanea-statute/jordanea-statute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
