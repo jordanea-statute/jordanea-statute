@@ -15,7 +15,7 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
   <br><br>
-  <img align="center" height ="60" width="70" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,node.js)(https://skillicons.dev)/></p>
+  <img align="center" height ="60px" width="70px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,node.js)(https://skillicons.dev)/></p>
 </div>
 
 <!--
