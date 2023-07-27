@@ -16,7 +16,7 @@
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"> <br>    
-  <img align="center" height ="300px" width="300px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
+  <img align="center" height="300px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
 
 </div>
 <!--
