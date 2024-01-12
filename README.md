@@ -1,5 +1,5 @@
 ### Curioso sobre mim 👀
-📚 *Universitaria e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas e desenvolvimento Front-end programa Ford<enter> Senai.
+📚 *Universitaria e entusiasta de tecnologia, Curso Analise e Desenvolvimento de Sistemas,Formada em desenvolvimento Front-end jr programa Ford<enter> Senai.
   Tenho muitas aspirações e projetos pessoais, gosto bastante de por a mão na massa. 
   Natural do Rio de Janeiro, atualmente morando em São Paulo. </br>
   Sou muito ligada a familia e amigos 🥰. </br>
