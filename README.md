@@ -12,11 +12,11 @@
 <br><br>
 <div>
   <a href="https://github.com/jordanea-statute">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
-  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
+  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
+  <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"> <br>    
-  <img align="center" height="50px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
+  <img align="center" height="30px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
 
 </div>
 <!--
